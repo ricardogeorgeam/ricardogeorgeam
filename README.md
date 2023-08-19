@@ -6,8 +6,7 @@
     <a href="mailto:ricardoalbuquerque011@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ricardo-albuquerquegm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
+<br>
 👨🏽‍💻Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a experiência do usuário. Atualmente, estou cursando Ciência da Computação, o que me permite entender melhor os aspectos técnicos por trás dos produtos que desenvolvo.
 
 ## Habilidades e Tecnologias
