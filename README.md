@@ -15,11 +15,18 @@ Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a
 <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-## Contato
+## Contatos:
 
-- Email: [ricardoalbuquerque011@gmail.com](mailto:ricardoalbuquerque011@gmail.com)
-- LinkedIn: [Seu Nome no LinkedIn](link-para-o-seu-linkedin)
-- Portfolio: [Seu Portfolio Online](link-para-o-seu-portfolio)
+<div>
+<a href="https://www.instagram.com/ricardogeorgeam/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+<a href = "mailto:ricardoalbuquerque011@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/ricardo-albuquerquegm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+</div>
 
 ## Contribuições
 
