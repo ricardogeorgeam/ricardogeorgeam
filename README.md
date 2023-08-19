@@ -44,4 +44,4 @@ Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus projet
         <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardogeorgeam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
 </div>
-[Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ricardogeorgeam/ricardogeorgeam/blob/output/github-contribution-grid-snake.svg)
