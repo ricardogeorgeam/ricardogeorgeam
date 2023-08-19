@@ -8,7 +8,9 @@ Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a
 
 
             
-            <i class="devicon-html5-plain colored"></i>
+           
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
           
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
