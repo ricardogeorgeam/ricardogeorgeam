@@ -1,6 +1,5 @@
 ### Olá, me chamo Ricardo Albuquerque 👋
 
-<!--
 **ricardogeorgeam/ricardogeorgeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a experiência do usuário. Atualmente, estou cursando Ciência da Computação, o que me permite entender melhor os aspectos técnicos por trás dos produtos que desenvolvo.
@@ -36,4 +35,3 @@ Contribuições são bem-vindas em meus projetos! Se você quiser colaborar, sin
 
 Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou ansioso para colaborar e aprender com a comunidade GitHub.
 
--->
