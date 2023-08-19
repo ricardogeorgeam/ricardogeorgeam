@@ -1,6 +1,11 @@
 ### Olá, me chamo Ricardo Albuquerque 👋
 
-**ricardogeorgeam/ricardogeorgeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <a href="https://www.instagram.com/ricardogeorgeam/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/ricardogeorgeam" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="mailto:ricardoalbuquerque011@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ricardo-albuquerquegm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a experiência do usuário. Atualmente, estou cursando Ciência da Computação, o que me permite entender melhor os aspectos técnicos por trás dos produtos que desenvolvo.
 
@@ -19,14 +24,6 @@ Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a
     <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-## Contatos:
-
-<div>
-    <a href="https://www.instagram.com/ricardogeorgeam/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/ricardogeorgeam" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="mailto:ricardoalbuquerque011@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ricardo-albuquerquegm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ## Contribuições
 
@@ -44,7 +41,7 @@ Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus projet
 
 <div style="display: flex; gap: 20px;">
     <a href="https://github.com/ricardogeorgeam">
-        <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogeorgeam&layout=compact&langs_count=7&theme=dracula"/>
-        <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=ricardogeorgeam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogeorgeam&layout=compact&langs_count=7&theme=dracula"/>
+        <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardogeorgeam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
 </div>
