@@ -10,7 +10,7 @@
 
 Com experiência em projetos centrados no usuário, destaco-me na construção de interfaces visualmente atraentes e na colaboração eficiente com equipes de projeto. 
 
-Minhas habilidades em desenvolvimento web garantem a criação de sites rápidos e de alta qualidade. Em constante busca por aprimoramento, estou preparado para contribuir significativamente, oferecendo soluções inovadoras e resolvendo problemas reais. .
+Minhas habilidades em desenvolvimento web garantem a criação de sites rápidos e de alta qualidade. Em constante busca por aprimoramento, estou preparado para contribuir significativamente, oferecendo soluções inovadoras e resolvendo problemas reais. 
 
 ## Habilidades e Tecnologias
 
