@@ -6,7 +6,11 @@
     <a href="https://www.linkedin.com/in/ricardo-albuquerquegm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-👨🏽‍💻Sou um desenvolvedor web apaixonado por criar soluções digitais que melhoram a experiência do usuário. Atualmente, estou cursando Ciência da Computação, o que me permite entender melhor os aspectos técnicos por trás dos produtos que desenvolvo.
+👨🏽‍💻Sou um Front-End Engineer Jr, especializado em JavaScript, Bootstrap, HTML5 e CSS3. Minha dedicação está em criar soluções digitais excepcionais que superem as expectativas dos usuários. 
+
+Com experiência em projetos centrados no usuário, destaco-me na construção de interfaces visualmente atraentes e na colaboração eficiente com equipes de projeto. 
+
+Minhas habilidades em desenvolvimento web garantem a criação de sites rápidos e de alta qualidade. Em constante busca por aprimoramento, estou preparado para contribuir significativamente, oferecendo soluções inovadoras e resolvendo problemas reais. .
 
 ## Habilidades e Tecnologias
 
