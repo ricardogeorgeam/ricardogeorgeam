@@ -36,18 +36,6 @@ Recentemente, concluí o **Certificado Google Data Analytics**, um programa rigo
 
 ---
 
-## 🌟 Contribuições
-
-Contribuições são bem-vindas em meus projetos! Se você quiser colaborar, sinta-se à vontade para:
-
-1. Fazer um fork do repositório.
-2. Criar um branch para a sua feature (`git checkout -b minha-feature`).
-3. Fazer commit das suas alterações (`git commit -am 'Adicionando nova feature'`).
-4. Fazer push para o branch (`git push origin minha-feature`).
-5. Abrir um Pull Request.
-
----
-
 ## 🚀 Estatísticas GitHub
 
 <div style="display: flex; gap: 20px;">
@@ -59,6 +47,3 @@ Contribuições são bem-vindas em meus projetos! Se você quiser colaborar, sin
 
 ---
 
-## 🙏 Agradecimentos
-
-Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou ansioso para colaborar e aprender com a comunidade GitHub.
