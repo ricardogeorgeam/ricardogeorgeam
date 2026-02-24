@@ -24,23 +24,22 @@ Minha vivência técnica abrange projetos em setores como o acadêmico e o imobi
 
 ## 🛠️ Habilidades e Tecnologias
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+<div style="display: flex; gap: 20px; align-items: center;">
+    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" alt="Python" />
+    <img height="50px" src="https://www.luiztools.com.br/wp-content/uploads/2013/05/SQL-Server-Logo.png" alt="SQL Server" />
+    <img height="50px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAiZAAZAA0" alt="Power BI" />
+    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1280px-N8n-logo-new.svg.png" alt="n8n" />
 </div>
 
 ---
 
 ## 📚 Estudando e Explorando
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Engenharia_de_Dados-0052CC?style=for-the-badge&logo=data&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<div style="display: flex; gap: 20px; align-items: center;">
+    <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0l3LtGUQZES0xqGbA-9ATmpO6yMe6GrIHuQ&s" />
+    <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbC9RC9REhcMT5RwQ6syFtj-bJOFMp9p91Q&s" />
+    <img height="50px" src="https://img.icons8.com/color/512/google-cloud.png" alt="Google Cloud" />
+    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" />
 </div>
 
 ---
